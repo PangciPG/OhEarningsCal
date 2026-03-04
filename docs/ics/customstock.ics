@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:RpAgiEpyweEHWsKwXqTQJ
+UID:G9GLJSIBZKJ2UyIuQM_t9
 SUMMARY:Advanced Micro Devices 发布财报
-DTSTAMP:20260303T172606Z
+DTSTAMP:20260304T053231Z
 DTSTART;VALUE=DATE:20260203
 DESCRIPTION:财务季度：Dec/2025。\n代码：AMD，公司：Advanced Micro Devices，行业: 半导体。\n预计每股
 	收益: $1.11，当前市值: $394\,165\,137\,249。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:G9XTyZiTliq2jaWsMioO-
+UID:xH2j5djPhnnOTJDL99pLV
 SUMMARY:Alphabet Inc. 盘后发布财报
-DTSTAMP:20260303T172606Z
+DTSTAMP:20260304T053231Z
 DTSTART;VALUE=DATE:20260204
 DESCRIPTION:财务季度：Dec/2025。\n代码：GOOG，公司：Alphabet Inc.，行业: 互联网。\n预计每股收益: $2.5
 	8，当前市值: $4\,099\,280\,570\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:0H1cdW-A9gy1ZytfFY5bF
+UID:xWXKkGpUnlDsG5FmoilEH
 SUMMARY:Amazon 盘后发布财报
-DTSTAMP:20260303T172606Z
+DTSTAMP:20260304T053231Z
 DTSTART;VALUE=DATE:20260205
 DESCRIPTION:财务季度：Dec/2025。\n代码：AMZN，公司：Amazon，行业: 电子商务/云计算。\n预计每股收益: $1.98，
 	当前市值: $2\,490\,713\,428\,403。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:KNx0G9kKS78dKX6BrQE8y
+UID:wAEANiHcnINjGVXEEq9XU
 SUMMARY:Fortinet 盘后发布财报
-DTSTAMP:20260303T172606Z
+DTSTAMP:20260304T053231Z
 DTSTART;VALUE=DATE:20260205
 DESCRIPTION:财务季度：Dec/2025。\n代码：FTNT，公司：Fortinet，行业: 网络安全。\n预计每股收益: $0.66，当前
 	市值: $60\,324\,734\,034。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=FTNT
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:QMb8gQEcirTP1GaErwlSI
+UID:jEB9yw8v5Pkoe5JQ6GyT7
 SUMMARY:NVIDIA 发布财报
-DTSTAMP:20260303T172606Z
+DTSTAMP:20260304T053231Z
 DTSTART;VALUE=DATE:20260225
 DESCRIPTION:财务季度：Jan/2026。\n代码：NVDA，公司：NVIDIA，行业: 半导体/人工智能。\n预计每股收益: $1.45，
 	当前市值: $4\,752\,108\,000\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:f9-pHHq0sQ3ztiRWh4s4c
+UID:tJmANn3elyyzlxcrVBrPt
 SUMMARY:Cercadia (或相关代码) 发布财报
-DTSTAMP:20260303T172606Z
+DTSTAMP:20260304T053231Z
 DTSTART;VALUE=DATE:20260225
 DESCRIPTION:财务季度：Dec/2025。\n代码：CRCL，公司：Cercadia (或相关代码)，行业: 金融/投资。\n预计每股收益:
 	 $0.15，当前市值: $19\,577\,440\,636。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sy
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3IrN8PgaJXkC6ntBm0K_P
+UID:3rGGAy-q-j-4xI-sPayvO
 SUMMARY:Intuit 发布财报
-DTSTAMP:20260303T172606Z
+DTSTAMP:20260304T053231Z
 DTSTART;VALUE=DATE:20260226
 DESCRIPTION:财务季度：Jan/2026。\n代码：INTU，公司：Intuit，行业: 软件 (财务/税务)。\n预计每股收益: $2.2
 	3，当前市值: $109\,806\,528\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol
