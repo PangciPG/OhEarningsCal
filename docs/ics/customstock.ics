@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:KgmPBgMYrUrCKE87ci_P3
+UID:fr8uvmyb7fpYeZNBF8RrU
 SUMMARY:NVIDIA 发布财报
-DTSTAMP:20260316T173942Z
+DTSTAMP:20260317T054524Z
 DTSTART;VALUE=DATE:20260225
 DESCRIPTION:财务季度：Jan/2026。\n代码：NVDA，公司：NVIDIA，行业: 半导体/人工智能。\n预计每股收益: $1.45，
 	当前市值: $4\,752\,108\,000\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:qD2AbsiOrru2wbIB8WXiq
+UID:vgSSfGzOCwjFGsH7_uAKo
 SUMMARY:Cercadia (或相关代码) 发布财报
-DTSTAMP:20260316T173942Z
+DTSTAMP:20260317T054524Z
 DTSTART;VALUE=DATE:20260225
 DESCRIPTION:财务季度：Dec/2025。\n代码：CRCL，公司：Cercadia (或相关代码)，行业: 金融/投资。\n预计每股收益:
 	 $0.15，当前市值: $19\,577\,440\,636。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sy
@@ -38,13 +38,45 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wOzs1utBJV3xYaayZEzcj
+UID:ybgVk0fBD6KrgbywZZQHd
 SUMMARY:Intuit 发布财报
-DTSTAMP:20260316T173942Z
+DTSTAMP:20260317T054524Z
 DTSTART;VALUE=DATE:20260226
 DESCRIPTION:财务季度：Jan/2026。\n代码：INTU，公司：Intuit，行业: 软件 (财务/税务)。\n预计每股收益: $2.2
 	3，当前市值: $109\,806\,528\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol
 	=INTU \n在富途查看：https://www.futunn.com/hk/stock/INTU-US 
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9uP8TVj5GwJ_scmvbWPXq
+SUMMARY:ASML Holding 盘前发布财报
+DTSTAMP:20260317T054524Z
+DTSTART;VALUE=DATE:20260415
+DESCRIPTION:财务季度：Mar/2026。\n代码：ASML，公司：ASML Holding，行业: 半导体设备。\n预计每股收益: $7.
+	61，当前市值: $518\,652\,697\,614。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
+	l=ASML \n在富途查看：https://www.futunn.com/hk/stock/ASML-US 
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Gaf9uk-8UoBkSSOnT5jrw
+SUMMARY:Bank of America 盘前发布财报
+DTSTAMP:20260317T054524Z
+DTSTART;VALUE=DATE:20260415
+DESCRIPTION:财务季度：Mar/2026。\n代码：BAC，公司：Bank of America，行业: 银行/金融。\n预计每股收益: $
+	0.99，当前市值: $335\,294\,590\,982。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
+	bol=BAC \n在富途查看：https://www.futunn.com/hk/stock/BAC-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 BEGIN:VALARM
