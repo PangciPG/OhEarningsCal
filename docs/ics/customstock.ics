@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:qPW2LdYpjS2_-D4XvvuWP
+UID:QGwf3POJZ6x2_dMMgi5aL
 SUMMARY:Intuit 发布财报
-DTSTAMP:20260328T054314Z
+DTSTAMP:20260328T170307Z
 DTSTART;VALUE=DATE:20260226
 DESCRIPTION:财务季度：Jan/2026。\n代码：INTU，公司：Intuit，行业: 软件 (财务/税务)。\n预计每股收益: $2.2
 	3，当前市值: $109\,806\,528\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:WPYxmuo0YqAl_rxiQwc1H
+UID:wknIq_2ur_psnmrAOZ96R
 SUMMARY:ASML Holding 盘前发布财报
-DTSTAMP:20260328T054314Z
+DTSTAMP:20260328T170307Z
 DTSTART;VALUE=DATE:20260415
 DESCRIPTION:财务季度：Mar/2026。\n代码：ASML，公司：ASML Holding，行业: 半导体设备。\n预计每股收益: $7.
 	61，当前市值: $512\,412\,785\,618。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:zsteIZCttIEpFixXtzYvp
+UID:y62P4st3IOIHmhgD22Fi6
 SUMMARY:Bank of America 盘前发布财报
-DTSTAMP:20260328T054314Z
+DTSTAMP:20260328T170307Z
 DTSTART;VALUE=DATE:20260415
 DESCRIPTION:财务季度：Mar/2026。\n代码：BAC，公司：Bank of America，行业: 银行/金融。\n预计每股收益: $
 	0.99，当前市值: $344\,709\,010\,891。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:sBJXdhOp4DVtnY7FqKhJ7
+UID:XO4TH78IS-H6r9_a3Btiz
 SUMMARY:台积电 发布财报
-DTSTAMP:20260328T054314Z
+DTSTAMP:20260328T170307Z
 DTSTART;VALUE=DATE:20260416
 DESCRIPTION:财务季度：Mar/2026。\n代码：TSM，公司：台积电，行业: 半导体制造。\n预计每股收益: $3.27，当前市值: $
 	1\,691\,384\,727\,379。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tE_vcr_xVbQeit4TNE-fO
+UID:WR9AY1KR5FmzRPZ9w8-Id
 SUMMARY:The Travelers Companies 盘前发布财报
-DTSTAMP:20260328T054314Z
+DTSTAMP:20260328T170307Z
 DTSTART;VALUE=DATE:20260416
 DESCRIPTION:财务季度：Mar/2026。\n代码：TRV，公司：The Travelers Companies，行业: 保险。\n预计每股
 	收益: $6.81，当前市值: $62\,953\,340\,409。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5R_OsVnZB5afOwdOm945B
+UID:lVzSikbUfvirdqOuS_rAX
 SUMMARY:Alphabet Inc. 发布财报
-DTSTAMP:20260328T054314Z
+DTSTAMP:20260328T170307Z
 DTSTART;VALUE=DATE:20260423
 DESCRIPTION:财务季度：Mar/2026。\n代码：GOOG，公司：Alphabet Inc.，行业: 互联网。\n预计每股收益: $2.7
 	6，当前市值: $3\,398\,289\,240\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
