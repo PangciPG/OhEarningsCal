@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:g79i6gWyM3wMEzYX6wyMn
+UID:OyijVA4RN7dKDhzVyVT7q
 SUMMARY:ASML Holding 盘前发布财报
-DTSTAMP:20260402T172856Z
+DTSTAMP:20260403T060026Z
 DTSTART;VALUE=DATE:20260415
 DESCRIPTION:财务季度：Mar/2026。\n代码：ASML，公司：ASML Holding，行业: 半导体设备。\n预计每股收益: $7.
 	64，当前市值: $524\,075\,524\,160。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7ol3Oycqci9hVlXepPZmB
+UID:Vyz-QrkGO9AI3obhN2Jvn
 SUMMARY:Bank of America 盘前发布财报
-DTSTAMP:20260402T172856Z
+DTSTAMP:20260403T060026Z
 DTSTART;VALUE=DATE:20260415
 DESCRIPTION:财务季度：Mar/2026。\n代码：BAC，公司：Bank of America，行业: 银行/金融。\n预计每股收益: $
 	0.99，当前市值: $352\,069\,091\,348。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wXUafwHHJqDbHskr47reT
+UID:5sfFq4jX3oODSHXyxsqS0
 SUMMARY:台积电 盘前发布财报
-DTSTAMP:20260402T172856Z
+DTSTAMP:20260403T060026Z
 DTSTART;VALUE=DATE:20260416
 DESCRIPTION:财务季度：Mar/2026。\n代码：TSM，公司：台积电，行业: 半导体制造。\n预计每股收益: $3.27，当前市值: $
 	1\,771\,153\,814\,826。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:08fhpysdRovSAu4XnJ3mC
+UID:8_CsI2iJrkjUpBGBlWS--
 SUMMARY:The Travelers Companies 盘前发布财报
-DTSTAMP:20260402T172856Z
+DTSTAMP:20260403T060026Z
 DTSTART;VALUE=DATE:20260416
 DESCRIPTION:财务季度：Mar/2026。\n代码：TRV，公司：The Travelers Companies，行业: 保险。\n预计每股
 	收益: $6.81，当前市值: $62\,823\,597\,668。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:gQ1x_Pe3lT9FfOoP_bUIH
+UID:pp0ughB99abYgRG6E09Px
 SUMMARY:Alphabet Inc. 发布财报
-DTSTAMP:20260402T172856Z
+DTSTAMP:20260403T060026Z
 DTSTART;VALUE=DATE:20260423
 DESCRIPTION:财务季度：Mar/2026。\n代码：GOOG，公司：Alphabet Inc.，行业: 互联网。\n预计每股收益: $2.7
 	6，当前市值: $3\,597\,526\,830\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:nWYNUGlHRlz3zrVqA_haf
+UID:EcWT93eOUQg6O2ucW8e9e
 SUMMARY:Tesla 发布财报
-DTSTAMP:20260402T172856Z
+DTSTAMP:20260403T060026Z
 DTSTART;VALUE=DATE:20260428
 DESCRIPTION:财务季度：Mar/2026。\n代码：TSLA，公司：Tesla，行业: 汽车/能源。\n预计每股收益: $0.24，当前市值
 	: $1\,430\,652\,218\,220。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TS
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:OjsaEs5hq3Pa26vvKqLMB
+UID:cuh2afmaB4NVJmXB_u0-_
 SUMMARY:Microsoft 发布财报
-DTSTAMP:20260402T172856Z
+DTSTAMP:20260403T060026Z
 DTSTART;VALUE=DATE:20260429
 DESCRIPTION:财务季度：Mar/2026。\n代码：MSFT，公司：Microsoft，行业: 软件/云计算。\n预计每股收益: $4.04
 	，当前市值: $2\,742\,804\,611\,802。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symb
