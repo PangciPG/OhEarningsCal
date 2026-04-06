@@ -6,12 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:ptz_OF23wIwT9KOJY6C98
+UID:uK7BJPvmOyBRvp0l_YfC7
 SUMMARY:ASML Holding 盘前发布财报
-DTSTAMP:20260406T061815Z
+DTSTAMP:20260406T172943Z
 DTSTART;VALUE=DATE:20260415
 DESCRIPTION:财务季度：Mar/2026。\n代码：ASML，公司：ASML Holding，行业: 半导体设备。\n预计每股收益: $7.
-	64，当前市值: $524\,075\,524\,160。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
+	64，当前市值: $507\,683\,710\,868。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
 	l=ASML \n在富途查看：https://www.futunn.com/hk/stock/ASML-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -22,12 +22,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wV5avzb0suPD-9thzk3rE
+UID:RUeYgDgRhiWRpgcAKu3Gf
 SUMMARY:Bank of America 盘前发布财报
-DTSTAMP:20260406T061815Z
+DTSTAMP:20260406T172943Z
 DTSTART;VALUE=DATE:20260415
 DESCRIPTION:财务季度：Mar/2026。\n代码：BAC，公司：Bank of America，行业: 银行/金融。\n预计每股收益: $
-	0.99，当前市值: $352\,069\,091\,348。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
+	0.99，当前市值: $352\,855\,119\,358。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
 	bol=BAC \n在富途查看：https://www.futunn.com/hk/stock/BAC-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -38,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wDcqV82AD2n2HsV6QRIQV
+UID:9T7mzDyutirtnFV1zuEWR
 SUMMARY:台积电 盘前发布财报
-DTSTAMP:20260406T061815Z
+DTSTAMP:20260406T172943Z
 DTSTART;VALUE=DATE:20260416
 DESCRIPTION:财务季度：Mar/2026。\n代码：TSM，公司：台积电，行业: 半导体制造。\n预计每股收益: $3.27，当前市值: $
-	1\,771\,153\,814\,826。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \
+	1\,758\,446\,775\,538。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \
 	n在富途查看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:DmGI1KjMUU5_JIT593Ywf
+UID:Y1uGjfTQUd2uzexCI42dr
 SUMMARY:The Travelers Companies 盘前发布财报
-DTSTAMP:20260406T061815Z
+DTSTAMP:20260406T172943Z
 DTSTART;VALUE=DATE:20260416
 DESCRIPTION:财务季度：Mar/2026。\n代码：TRV，公司：The Travelers Companies，行业: 保险。\n预计每股
-	收益: $6.81，当前市值: $62\,823\,597\,668。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://
+	收益: $6.81，当前市值: $63\,571\,780\,809。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://
 	?symbol=TRV \n在富途查看：https://www.futunn.com/hk/stock/TRV-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ZYc8aUKJzoF_DdvwKkvZs
+UID:dVS5XfERbdvwUqzAu0TuU
 SUMMARY:Alphabet Inc. 发布财报
-DTSTAMP:20260406T061815Z
+DTSTAMP:20260406T172943Z
 DTSTART;VALUE=DATE:20260423
 DESCRIPTION:财务季度：Mar/2026。\n代码：GOOG，公司：Alphabet Inc.，行业: 互联网。\n预计每股收益: $2.7
-	6，当前市值: $3\,597\,526\,830\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
+	6，当前市值: $3\,577\,929\,690\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
 	bol=GOOG \n在富途查看：https://www.futunn.com/hk/stock/GOOG-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:LjAOcYJRAX8zfyFIBgPFC
+UID:8YGHk8VtoZhHtt7Z2iIl_
 SUMMARY:Tesla 发布财报
-DTSTAMP:20260406T061815Z
+DTSTAMP:20260406T172943Z
 DTSTART;VALUE=DATE:20260428
 DESCRIPTION:财务季度：Mar/2026。\n代码：TSLA，公司：Tesla，行业: 汽车/能源。\n预计每股收益: $0.24，当前市值
-	: $1\,430\,652\,218\,220。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TS
+	: $1\,353\,089\,449\,111。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TS
 	LA \n在富途查看：https://www.futunn.com/hk/stock/TSLA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -102,12 +102,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:LxywcuL6WOWAogJ230NJF
+UID:sOJWXEc3RnN49iMnyI0-u
 SUMMARY:Microsoft 发布财报
-DTSTAMP:20260406T061815Z
+DTSTAMP:20260406T172943Z
 DTSTART;VALUE=DATE:20260429
 DESCRIPTION:财务季度：Mar/2026。\n代码：MSFT，公司：Microsoft，行业: 软件/云计算。\n预计每股收益: $4.04
-	，当前市值: $2\,742\,804\,611\,802。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symb
+	，当前市值: $2\,773\,175\,434\,723。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symb
 	ol=MSFT \n在富途查看：https://www.futunn.com/hk/stock/MSFT-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -118,12 +118,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:nmJWahwOy_MkHzCwe14hy
+UID:rCKxwfU8MSEAYV7X1Ok7C
 SUMMARY:Advanced Micro Devices 发布财报
-DTSTAMP:20260406T061815Z
+DTSTAMP:20260406T172943Z
 DTSTART;VALUE=DATE:20260505
 DESCRIPTION:财务季度：Mar/2026。\n代码：AMD，公司：Advanced Micro Devices，行业: 半导体。\n预计每股
-	收益: $1.03，当前市值: $342\,713\,514\,734。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
+	收益: $1.03，当前市值: $354\,598\,684\,433。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
 	/?symbol=AMD \n在富途查看：https://www.futunn.com/hk/stock/AMD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
