@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:-KISr1pc0_qfI8MwB7L9g
+UID:7zx_DqQ7kPMuZDOC9GoeM
 SUMMARY:ASML Holding 盘前发布财报
-DTSTAMP:20260407T173558Z
+DTSTAMP:20260408T061005Z
 DTSTART;VALUE=DATE:20260415
 DESCRIPTION:财务季度：Mar/2026。\n代码：ASML，公司：ASML Holding，行业: 半导体设备。\n预计每股收益: $7.
 	64，当前市值: $502\,588\,489\,337。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:OBcog9j4ghpfWN4buwRdU
+UID:lnraluoXagdRZvMp7ACyI
 SUMMARY:Bank of America 盘前发布财报
-DTSTAMP:20260407T173558Z
+DTSTAMP:20260408T061005Z
 DTSTART;VALUE=DATE:20260415
 DESCRIPTION:财务季度：Mar/2026。\n代码：BAC，公司：Bank of America，行业: 银行/金融。\n预计每股收益: $
 	0.99，当前市值: $357\,714\,201\,601。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:s8K1jsIAHGds2NT7yfteI
+UID:g3EB9UbZlQc_w-XMJl-sY
 SUMMARY:台积电 盘前发布财报
-DTSTAMP:20260407T173558Z
+DTSTAMP:20260408T061005Z
 DTSTART;VALUE=DATE:20260416
 DESCRIPTION:财务季度：Mar/2026。\n代码：TSM，公司：台积电，行业: 半导体制造。\n预计每股收益: $3.29，当前市值: $
 	1\,772\,554\,182\,420。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:MPoPevOUii9n0WYPDz_AS
+UID:JUWUqRhIu5_fn0XCdDAJI
 SUMMARY:The Travelers Companies 盘前发布财报
-DTSTAMP:20260407T173558Z
+DTSTAMP:20260408T061005Z
 DTSTART;VALUE=DATE:20260416
 DESCRIPTION:财务季度：Mar/2026。\n代码：TRV，公司：The Travelers Companies，行业: 保险。\n预计每股
 	收益: $6.81，当前市值: $63\,909\,111\,936。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:SxJCGcwa6mg_Q38kQCAVF
+UID:OwzQSz4CFhDU7vA1CEXIz
 SUMMARY:Tesla 盘后发布财报
-DTSTAMP:20260407T173558Z
+DTSTAMP:20260408T061005Z
 DTSTART;VALUE=DATE:20260422
 DESCRIPTION:财务季度：Mar/2026。\n代码：TSLA，公司：Tesla，行业: 汽车/能源。\n预计每股收益: $0.24，当前市值
 	: $1\,323\,933\,052\,595。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TS
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:iAT2Ja6dhAl5X9dmjl2sw
+UID:Y5UiBsjCP1_wxdnNIeNgE
 SUMMARY:Alphabet Inc. 发布财报
-DTSTAMP:20260407T173558Z
+DTSTAMP:20260408T061005Z
 DTSTART;VALUE=DATE:20260423
 DESCRIPTION:财务季度：Mar/2026。\n代码：GOOG，公司：Alphabet Inc.，行业: 互联网。\n预计每股收益: $2.7
 	6，当前市值: $3\,628\,979\,030\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:_ON9KK1qkQRSeoK6egcE8
+UID:nAimoTgmKAhH7Lr0rc8AF
 SUMMARY:Microsoft 发布财报
-DTSTAMP:20260407T173558Z
+DTSTAMP:20260408T061005Z
 DTSTART;VALUE=DATE:20260429
 DESCRIPTION:财务季度：Mar/2026。\n代码：MSFT，公司：Microsoft，行业: 软件/云计算。\n预计每股收益: $4.04
 	，当前市值: $2\,768\,868\,569\,859。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symb
@@ -118,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:jMzuIUrgWS6jPYZAVa3Xi
+UID:mkoVasVW5avw0Mk0XB25J
 SUMMARY:Advanced Micro Devices 发布财报
-DTSTAMP:20260407T173558Z
+DTSTAMP:20260408T061005Z
 DTSTART;VALUE=DATE:20260505
 DESCRIPTION:财务季度：Mar/2026。\n代码：AMD，公司：Advanced Micro Devices，行业: 半导体。\n预计每股
 	收益: $1.03，当前市值: $358\,967\,992\,360。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
@@ -134,13 +134,29 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:BFsveU430W4-ucbYtOSAb
+UID:4VNhRfMARqQF6BAbRTKlJ
 SUMMARY:Fortinet 盘后发布财报
-DTSTAMP:20260407T173558Z
+DTSTAMP:20260408T061005Z
 DTSTART;VALUE=DATE:20260506
 DESCRIPTION:财务季度：Mar/2026。\n代码：FTNT，公司：Fortinet，行业: 网络安全。\n预计每股收益: $0.53，当前
 	市值: $60\,888\,311\,645。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=FTNT
 	 \n在富途查看：https://www.futunn.com/hk/stock/FTNT-US 
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:L-AqqC4p_QlkdbanS5t_V
+SUMMARY:Amazon 发布财报
+DTSTAMP:20260408T061005Z
+DTSTART;VALUE=DATE:20260507
+DESCRIPTION:财务季度：Mar/2026。\n代码：AMZN，公司：Amazon，行业: 电子商务/云计算。\n预计每股收益: $1.69，
+	当前市值: $2\,284\,283\,811\,927。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
+	l=AMZN \n在富途查看：https://www.futunn.com/hk/stock/AMZN-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 BEGIN:VALARM
