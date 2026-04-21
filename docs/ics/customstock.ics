@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fr-zu-6vpHwI0c2QXlqhI
+UID:Akz7EMX5iUD2TT8Mt4O_e
 SUMMARY:ASML Holding 发布财报
-DTSTAMP:20260421T062311Z
+DTSTAMP:20260421T173809Z
 DTSTART;VALUE=DATE:20260415
 DESCRIPTION:财务季度：Mar/2026。\n代码：ASML，公司：ASML Holding，行业: 半导体设备。\n预计每股收益: $7.
 	72，当前市值: $571\,100\,333\,467。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:pZM7fhpWJYuk-u0mxg5qA
+UID:5xOZ7WY7j35UtqNzfM8EP
 SUMMARY:Bank of America 发布财报
-DTSTAMP:20260421T062311Z
+DTSTAMP:20260421T173809Z
 DTSTART;VALUE=DATE:20260415
 DESCRIPTION:财务季度：Mar/2026。\n代码：BAC，公司：Bank of America，行业: 银行/金融。\n预计每股收益: $
 	1，当前市值: $388\,154\,922\,712。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Y9iWt_7XCqUIfIr3buR71
+UID:aCwvkhEJBW3pCGKBOdPnv
 SUMMARY:台积电 发布财报
-DTSTAMP:20260421T062311Z
+DTSTAMP:20260421T173809Z
 DTSTART;VALUE=DATE:20260416
 DESCRIPTION:财务季度：Mar/2026。\n代码：TSM，公司：台积电，行业: 半导体制造。\n预计每股收益: $3.31，当前市值: $
 	1\,884\,531\,724\,551。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:s3TIr6HcBrdGuD4lG8wFP
+UID:WouBJMltnjl7BHrtzqXvv
 SUMMARY:The Travelers Companies 发布财报
-DTSTAMP:20260421T062311Z
+DTSTAMP:20260421T173809Z
 DTSTART;VALUE=DATE:20260416
 DESCRIPTION:财务季度：Mar/2026。\n代码：TRV，公司：The Travelers Companies，行业: 保险。\n预计每股
 	收益: $6.98，当前市值: $63\,546\,171\,065。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:eEpJrLcfrw_IMRKWodY3Y
+UID:uyM3bqnek7rdfP4JFSl4X
 SUMMARY:Tesla 盘后发布财报
-DTSTAMP:20260421T062311Z
+DTSTAMP:20260421T173809Z
 DTSTART;VALUE=DATE:20260422
 DESCRIPTION:财务季度：Mar/2026。\n代码：TSLA，公司：Tesla，行业: 汽车/能源。\n预计每股收益: $0.21，当前市值
-	: $1\,503\,299\,301\,430。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TS
+	: $1\,472\,829\,553\,720。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TS
 	LA \n在富途查看：https://www.futunn.com/hk/stock/TSLA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:gtqCE8A6uS_STUM39B4xH
+UID:H9rnFYsggGHLNPaSC_huM
 SUMMARY:Alphabet Inc. 盘后发布财报
-DTSTAMP:20260421T062311Z
+DTSTAMP:20260421T173809Z
 DTSTART;VALUE=DATE:20260429
 DESCRIPTION:财务季度：Mar/2026。\n代码：GOOG，公司：Alphabet Inc.，行业: 互联网。\n预计每股收益: $2.6
-	3，当前市值: $4\,133\,302\,960\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
+	3，当前市值: $4\,081\,769\,740\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
 	bol=GOOG \n在富途查看：https://www.futunn.com/hk/stock/GOOG-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -102,12 +102,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:h2_7wjOEQopmyI_QYaGw-
+UID:fAZNzFnKAWTzIAqOVy14k
 SUMMARY:Microsoft 盘后发布财报
-DTSTAMP:20260421T062311Z
+DTSTAMP:20260421T173809Z
 DTSTART;VALUE=DATE:20260429
 DESCRIPTION:财务季度：Mar/2026。\n代码：MSFT，公司：Microsoft，行业: 软件/云计算。\n预计每股收益: $4.07
-	，当前市值: $3\,139\,481\,717\,042。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symb
+	，当前市值: $3\,104\,432\,747\,803。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symb
 	ol=MSFT \n在富途查看：https://www.futunn.com/hk/stock/MSFT-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -118,12 +118,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Sn4QY7fXsVRRf_TS6svJf
+UID:rdNIqyEoR1omaswEnPRx9
 SUMMARY:Amazon 盘后发布财报
-DTSTAMP:20260421T062311Z
+DTSTAMP:20260421T173809Z
 DTSTART;VALUE=DATE:20260429
 DESCRIPTION:财务季度：Mar/2026。\n代码：AMZN，公司：Amazon，行业: 电子商务/云计算。\n预计每股收益: $1.69，
-	当前市值: $2\,694\,585\,330\,757。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
+	当前市值: $2\,670\,065\,636\,656。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
 	l=AMZN \n在富途查看：https://www.futunn.com/hk/stock/AMZN-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -134,12 +134,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:z4Mq5_SyPdgqorTqddFjv
+UID:DAGRJUD0LHKgfRi0TNmJa
 SUMMARY:Advanced Micro Devices 盘后发布财报
-DTSTAMP:20260421T062311Z
+DTSTAMP:20260421T173809Z
 DTSTART;VALUE=DATE:20260505
 DESCRIPTION:财务季度：Mar/2026。\n代码：AMD，公司：Advanced Micro Devices，行业: 半导体。\n预计每股
-	收益: $1.04，当前市值: $453\,870\,012\,686。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
+	收益: $1.04，当前市值: $448\,261\,647\,286。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
 	/?symbol=AMD \n在富途查看：https://www.futunn.com/hk/stock/AMD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -150,12 +150,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:UrIpyJ8lu-7zPeon_In5I
+UID:HLAw5K4laLjGaN85V6zB0
 SUMMARY:Fortinet 盘后发布财报
-DTSTAMP:20260421T062311Z
+DTSTAMP:20260421T173809Z
 DTSTART;VALUE=DATE:20260506
 DESCRIPTION:财务季度：Mar/2026。\n代码：FTNT，公司：Fortinet，行业: 网络安全。\n预计每股收益: $0.53，当前
-	市值: $60\,555\,346\,033。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=FTNT
+	市值: $61\,117\,687\,956。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=FTNT
 	 \n在富途查看：https://www.futunn.com/hk/stock/FTNT-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -166,12 +166,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:-KbIe2XOxgo_dNTN6QFFD
+UID:sVU4X_i88TX3vF2USEGjv
 SUMMARY:Cercadia (或相关代码) 盘前发布财报
-DTSTAMP:20260421T062311Z
+DTSTAMP:20260421T173809Z
 DTSTART;VALUE=DATE:20260511
 DESCRIPTION:财务季度：Mar/2026。\n代码：CRCL，公司：Cercadia (或相关代码)，行业: 金融/投资。\n预计每股收益:
-	 $0.15，当前市值: $26\,182\,055\,582。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sy
+	 $0.15，当前市值: $26\,293\,300\,271。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sy
 	mbol=CRCL \n在富途查看：https://www.futunn.com/hk/stock/CRCL-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -182,12 +182,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hZX-6gxt5vXC1NIOTn8x5
+UID:-Y06UFDhzQztri_2nkgAa
 SUMMARY:NVIDIA 盘后发布财报
-DTSTAMP:20260421T062311Z
+DTSTAMP:20260421T173809Z
 DTSTART;VALUE=DATE:20260520
 DESCRIPTION:财务季度：Apr/2026。\n代码：NVDA，公司：NVIDIA，行业: 半导体/人工智能。\n预计每股收益: $1.70，
-	当前市值: $4\,900\,824\,000\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
+	当前市值: $4\,910\,058\,000\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
 	l=NVDA \n在富途查看：https://www.futunn.com/hk/stock/NVDA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
