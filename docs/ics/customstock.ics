@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:1gq9fKfzGuVlmyQEplehD
+UID:tJnpISYEL2y6C8Znt0Sve
 SUMMARY:NVIDIA 发布财报
-DTSTAMP:20260616T195727Z
+DTSTAMP:20260617T092119Z
 DTSTART;VALUE=DATE:20260520
 DESCRIPTION:财务季度：Apr/2026。\n代码：NVDA，公司：NVIDIA，行业: 半导体/人工智能。\n预计每股收益: $1.70，
 	当前市值: $5\,433\,034\,330\,281。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:gv6gkqI3WvNriavbVEEGl
+UID:d2zl5HpFbojWOmSfXYZ8c
 SUMMARY:Intuit 发布财报
-DTSTAMP:20260616T195727Z
+DTSTAMP:20260617T092119Z
 DTSTART;VALUE=DATE:20260520
 DESCRIPTION:财务季度：Apr/2026。\n代码：INTU，公司：Intuit，行业: 软件 (财务/税务)。\n预计每股收益: $11.
 	13，当前市值: $106\,175\,841\,500。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:blAkcaPsHEyTX94q6MZqx
+UID:ZYhzNchUZbCOpTqiNwHHS
 SUMMARY:Bank of America 盘前发布财报
-DTSTAMP:20260616T195727Z
+DTSTAMP:20260617T092119Z
 DTSTART;VALUE=DATE:20260714
 DESCRIPTION:财务季度：Jun/2026。\n代码：BAC，公司：Bank of America，行业: 银行/金融。\n预计每股收益: $
 	1.10，当前市值: $396\,486\,519\,671。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
@@ -54,13 +54,29 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:oKaGlZ60jUXqoo_Qw3V9r
+UID:HCB9kXKbcVXUVxLUmfoMF
 SUMMARY:ASML Holding 盘前发布财报
-DTSTAMP:20260616T195727Z
+DTSTAMP:20260617T092119Z
 DTSTART;VALUE=DATE:20260715
 DESCRIPTION:财务季度：Jun/2026。\n代码：ASML，公司：ASML Holding，行业: 半导体设备。\n预计每股收益: $8.
 	01，当前市值: $729\,464\,597\,839。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
 	l=ASML \n在富途查看：https://www.futunn.com/hk/stock/ASML-US 
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:xILjon0hxvB2iNSoxqvzf
+SUMMARY:台积电 发布财报
+DTSTAMP:20260617T092119Z
+DTSTART;VALUE=DATE:20260716
+DESCRIPTION:财务季度：Jun/2026。\n代码：TSM，公司：台积电，行业: 半导体制造。\n预计每股收益: $3.69，当前市值: $
+	2\,289\,323\,264\,626。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \
+	n在富途查看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 BEGIN:VALARM
