@@ -6,41 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:FMR2WKDK4duJMqwXBMfxr
-SUMMARY:NVIDIA 发布财报
-DTSTAMP:20260619T182024Z
-DTSTART;VALUE=DATE:20260520
-DESCRIPTION:财务季度：Apr/2026。\n代码：NVDA，公司：NVIDIA，行业: 半导体/人工智能。\n预计每股收益: $1.70，
-	当前市值: $5\,433\,034\,330\,281。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
-	l=NVDA \n在富途查看：https://www.futunn.com/hk/stock/NVDA-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:cpWE_1SBkHRFlqQZhS5av
-SUMMARY:Intuit 发布财报
-DTSTAMP:20260619T182024Z
-DTSTART;VALUE=DATE:20260520
-DESCRIPTION:财务季度：Apr/2026。\n代码：INTU，公司：Intuit，行业: 软件 (财务/税务)。\n预计每股收益: $11.
-	13，当前市值: $106\,175\,841\,500。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
-	l=INTU \n在富途查看：https://www.futunn.com/hk/stock/INTU-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:f5-G5Dji4lN5mXmA0EQFn
+UID:Y19MhUWRTXcivFVh_bZFM
 SUMMARY:Bank of America 盘前发布财报
-DTSTAMP:20260619T182024Z
+DTSTAMP:20260620T080503Z
 DTSTART;VALUE=DATE:20260714
 DESCRIPTION:财务季度：Jun/2026。\n代码：BAC，公司：Bank of America，行业: 银行/金融。\n预计每股收益: $
 	1.09，当前市值: $401\,170\,269\,501。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
@@ -54,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7f1tOBe93wMt7ymJv1rk4
+UID:AIhfaGu0i6rZc-t_aniNh
 SUMMARY:ASML Holding 盘前发布财报
-DTSTAMP:20260619T182024Z
+DTSTAMP:20260620T080503Z
 DTSTART;VALUE=DATE:20260715
 DESCRIPTION:财务季度：Jun/2026。\n代码：ASML，公司：ASML Holding，行业: 半导体设备。\n预计每股收益: $8.
 	01，当前市值: $719\,894\,677\,217。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
@@ -70,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:03O2Iw1ZTlqm6lpRFGE6z
+UID:CIcGt2CC2ow1dpJowmI0V
 SUMMARY:台积电 发布财报
-DTSTAMP:20260619T182024Z
+DTSTAMP:20260620T080503Z
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:财务季度：Jun/2026。\n代码：TSM，公司：台积电，行业: 半导体制造。\n预计每股收益: $3.69，当前市值: $
 	2\,241\,348\,094\,264。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \
@@ -86,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hmi72l1hBha8AlINDyEpY
+UID:senbE_j6_oei_-1MYLDIl
 SUMMARY:The Travelers Companies 盘前发布财报
-DTSTAMP:20260619T182024Z
+DTSTAMP:20260620T080503Z
 DTSTART;VALUE=DATE:20260717
 DESCRIPTION:财务季度：Jun/2026。\n代码：TRV，公司：The Travelers Companies，行业: 保险。\n预计每股
 	收益: $4.87，当前市值: $65\,084\,161\,187。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://
