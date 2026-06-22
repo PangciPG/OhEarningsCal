@@ -6,12 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:mPvFasw-3K7V8LMSnkLEP
+UID:tNbA8HBDrSX-UdyBQU5o6
 SUMMARY:Bank of America 盘前发布财报
-DTSTAMP:20260622T102406Z
+DTSTAMP:20260622T195655Z
 DTSTART;VALUE=DATE:20260714
 DESCRIPTION:财务季度：Jun/2026。\n代码：BAC，公司：Bank of America，行业: 银行/金融。\n预计每股收益: $
-	1.09，当前市值: $401\,170\,269\,501。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
+	1.09，当前市值: $398\,828\,394\,586。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
 	bol=BAC \n在富途查看：https://www.futunn.com/hk/stock/BAC-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -22,12 +22,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:apqVKfpGUCdOn3Y0yd5Vv
+UID:u5pGm_pDDolq8GBaXIcZa
 SUMMARY:ASML Holding 盘前发布财报
-DTSTAMP:20260622T102406Z
+DTSTAMP:20260622T195655Z
 DTSTART;VALUE=DATE:20260715
 DESCRIPTION:财务季度：Jun/2026。\n代码：ASML，公司：ASML Holding，行业: 半导体设备。\n预计每股收益: $8.
-	01，当前市值: $719\,894\,677\,217。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
+	01，当前市值: $743\,732\,759\,797。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
 	l=ASML \n在富途查看：https://www.futunn.com/hk/stock/ASML-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -38,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:O2eget1poJl_JzHyFyICc
+UID:liDZkTsJDPpyVdAvc5dYq
 SUMMARY:台积电 发布财报
-DTSTAMP:20260622T102406Z
+DTSTAMP:20260622T195655Z
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:财务季度：Jun/2026。\n代码：TSM，公司：台积电，行业: 半导体制造。\n预计每股收益: $3.69，当前市值: $
-	2\,241\,348\,094\,264。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \
+	2\,396\,787\,646\,236。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \
 	n在富途查看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:JMK8m1UbuhW_6vgSKwxQM
+UID:MpQvZoIVdQ5XEJFlbXZvC
 SUMMARY:The Travelers Companies 盘前发布财报
-DTSTAMP:20260622T102406Z
+DTSTAMP:20260622T195655Z
 DTSTART;VALUE=DATE:20260717
 DESCRIPTION:财务季度：Jun/2026。\n代码：TRV，公司：The Travelers Companies，行业: 保险。\n预计每股
-	收益: $4.87，当前市值: $65\,084\,161\,187。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://
+	收益: $4.87，当前市值: $65\,454\,162\,952。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://
 	?symbol=TRV \n在富途查看：https://www.futunn.com/hk/stock/TRV-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
