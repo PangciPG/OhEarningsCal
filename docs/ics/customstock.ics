@@ -6,12 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:mi_-mIIf8ConToa9sgH6S
+UID:q0Hn5O3JG7OO-KQyQgqgM
 SUMMARY:Bank of America 盘前发布财报
-DTSTAMP:20260623T080621Z
+DTSTAMP:20260623T182546Z
 DTSTART;VALUE=DATE:20260714
 DESCRIPTION:财务季度：Jun/2026。\n代码：BAC，公司：Bank of America，行业: 银行/金融。\n预计每股收益: $
-	1.09，当前市值: $398\,828\,394\,586。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
+	1.09，当前市值: $407\,131\,405\,648。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
 	bol=BAC \n在富途查看：https://www.futunn.com/hk/stock/BAC-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -22,12 +22,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ilJm83HOCpX15ufHRHb4C
+UID:vKc6zSQkBGylKcMy9ZmZz
 SUMMARY:ASML Holding 盘前发布财报
-DTSTAMP:20260623T080621Z
+DTSTAMP:20260623T182546Z
 DTSTART;VALUE=DATE:20260715
-DESCRIPTION:财务季度：Jun/2026。\n代码：ASML，公司：ASML Holding，行业: 半导体设备。\n预计每股收益: $8.
-	01，当前市值: $743\,732\,759\,797。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
+DESCRIPTION:财务季度：Jun/2026。\n代码：ASML，公司：ASML Holding，行业: 半导体设备。\n预计每股收益: $7.
+	98，当前市值: $743\,567\,030\,201。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
 	l=ASML \n在富途查看：https://www.futunn.com/hk/stock/ASML-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -38,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:rtuSdhO7TVFEKo6YP6KZ_
+UID:QU1DnasnYn9igNME8qWfk
 SUMMARY:台积电 发布财报
-DTSTAMP:20260623T080621Z
+DTSTAMP:20260623T182546Z
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:财务季度：Jun/2026。\n代码：TSM，公司：台积电，行业: 半导体制造。\n预计每股收益: $3.69，当前市值: $
-	2\,396\,787\,646\,236。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \
+	2\,425\,572\,748\,454。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \
 	n在富途查看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:xQ8QPGWJkid689MuoMxnV
+UID:k2X5IdBBJjFltasbSAJoY
 SUMMARY:The Travelers Companies 盘前发布财报
-DTSTAMP:20260623T080621Z
+DTSTAMP:20260623T182546Z
 DTSTART;VALUE=DATE:20260717
 DESCRIPTION:财务季度：Jun/2026。\n代码：TRV，公司：The Travelers Companies，行业: 保险。\n预计每股
-	收益: $4.87，当前市值: $65\,454\,162\,952。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://
+	收益: $4.87，当前市值: $66\,049\,568\,093。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://
 	?symbol=TRV \n在富途查看：https://www.futunn.com/hk/stock/TRV-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:TxAO1sG34IZ_83roIXhdh
+UID:L5j4HTdzy6srHx5K7Kl3R
 SUMMARY:Alphabet Inc. 发布财报
-DTSTAMP:20260623T080621Z
+DTSTAMP:20260623T182546Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：GOOG，公司：Alphabet Inc.，行业: 互联网。\n预计每股收益: $2.8
-	6，当前市值: $4\,459\,051\,480\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
+	6，当前市值: $4\,236\,722\,880\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
 	bol=GOOG \n在富途查看：https://www.futunn.com/hk/stock/GOOG-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:NdIVZvk9lirJeMbINZBPB
+UID:Ko0XuNlWEyBUZTaHGdDK1
 SUMMARY:Tesla 发布财报
-DTSTAMP:20260623T080621Z
+DTSTAMP:20260623T182546Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：TSLA，公司：Tesla，行业: 汽车/能源。\n预计每股收益: $0.27，当前市值
-	: $1\,504\,129\,853\,097。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TS
+	: $1\,521\,255\,953\,949。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TS
 	LA \n在富途查看：https://www.futunn.com/hk/stock/TSLA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
