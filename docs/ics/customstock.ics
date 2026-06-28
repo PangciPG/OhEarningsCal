@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:cX2c16Qk3tQi_CRM9kQpn
+UID:HWoEbFonc4SwwjSSmHx2y
 SUMMARY:Bank of America 盘前发布财报
-DTSTAMP:20260628T080444Z
+DTSTAMP:20260628T174817Z
 DTSTART;VALUE=DATE:20260714
 DESCRIPTION:财务季度：Jun/2026。\n代码：BAC，公司：Bank of America，行业: 银行/金融。\n预计每股收益: $
 	1.09，当前市值: $412\,950\,609\,982。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:06K9QFtgiEYewE_8TQqHs
+UID:sqAKEJigandSUCzRJ58mx
 SUMMARY:ASML Holding 盘前发布财报
-DTSTAMP:20260628T080444Z
+DTSTAMP:20260628T174817Z
 DTSTART;VALUE=DATE:20260715
 DESCRIPTION:财务季度：Jun/2026。\n代码：ASML，公司：ASML Holding，行业: 半导体设备。\n预计每股收益: $7.
 	98，当前市值: $709\,623\,296\,445。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:TCOFUi-eObtOX38B3kABi
+UID:FqGS43HlRRSfdDbgqL3L8
 SUMMARY:台积电 发布财报
-DTSTAMP:20260628T080444Z
+DTSTAMP:20260628T174817Z
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:财务季度：Jun/2026。\n代码：TSM，公司：台积电，行业: 半导体制造。\n预计每股收益: $3.77，当前市值: $
 	2\,256\,077\,768\,191。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:QLeR0-s_WFJYMRuxVWVuS
+UID:ngzln6dj_hMR51xL1rWoV
 SUMMARY:The Travelers Companies 盘前发布财报
-DTSTAMP:20260628T080444Z
+DTSTAMP:20260628T174817Z
 DTSTART;VALUE=DATE:20260717
 DESCRIPTION:财务季度：Jun/2026。\n代码：TRV，公司：The Travelers Companies，行业: 保险。\n预计每股
 	收益: $4.87，当前市值: $67\,682\,679\,335。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2TBN80PlcR0IHmU-ao08x
+UID:8SXCbmx2NSVMAmYtq0Rho
 SUMMARY:Alphabet Inc. 发布财报
-DTSTAMP:20260628T080444Z
+DTSTAMP:20260628T174817Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：GOOG，公司：Alphabet Inc.，行业: 互联网。\n预计每股收益: $2.8
 	6，当前市值: $4\,164\,390\,360\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:D-2RX5ul5K7xqg_rNln5B
+UID:kU-aaETFhfbLOW-_j74Dc
 SUMMARY:Tesla 发布财报
-DTSTAMP:20260628T080444Z
+DTSTAMP:20260628T174817Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：TSLA，公司：Tesla，行业: 汽车/能源。\n预计每股收益: $0.27，当前市值
 	: $1\,408\,847\,138\,490。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TS
