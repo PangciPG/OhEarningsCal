@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:GXyh5CwMagmXSYovJ_5dn
+UID:RdeS00MyI8Qs4Us1Symh-
 SUMMARY:Bank of America 盘前发布财报
-DTSTAMP:20260706T182912Z
+DTSTAMP:20260707T080201Z
 DTSTART;VALUE=DATE:20260714
 DESCRIPTION:财务季度：Jun/2026。\n代码：BAC，公司：Bank of America，行业: 银行/金融。\n预计每股收益: $
 	1.11，当前市值: $416\,782\,768\,933。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wmlGGi7tbvwxyy_xtudzQ
+UID:k30i2bwNG6Ci5-HSTrmTx
 SUMMARY:ASML Holding 盘前发布财报
-DTSTAMP:20260706T182912Z
+DTSTAMP:20260707T080201Z
 DTSTART;VALUE=DATE:20260715
 DESCRIPTION:财务季度：Jun/2026。\n代码：ASML，公司：ASML Holding，行业: 半导体设备。\n预计每股收益: $7.
 	98，当前市值: $681\,927\,183\,038。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2znnIrXkV6dOM5cutv7Hx
+UID:A3eYnpaBJu1TKLBSZQ1MS
 SUMMARY:台积电 盘前发布财报
-DTSTAMP:20260706T182912Z
+DTSTAMP:20260707T080201Z
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:财务季度：Jun/2026。\n代码：TSM，公司：台积电，行业: 半导体制造。\n预计每股收益: $3.77，当前市值: $
 	2\,251\,772\,969\,121。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:MK2rH1-schx3es6kphB7N
+UID:MYCrGRse762X4JH2FlQTL
 SUMMARY:The Travelers Companies 盘前发布财报
-DTSTAMP:20260706T182912Z
+DTSTAMP:20260707T080201Z
 DTSTART;VALUE=DATE:20260717
 DESCRIPTION:财务季度：Jun/2026。\n代码：TRV，公司：The Travelers Companies，行业: 保险。\n预计每股
 	收益: $4.87，当前市值: $72\,790\,404\,861。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:h-oKH-x0KdzaMOqoMj0OY
+UID:TItRx79AZ7USGxpYe3_05
 SUMMARY:Alphabet Inc. 发布财报
-DTSTAMP:20260706T182912Z
+DTSTAMP:20260707T080201Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：GOOG，公司：Alphabet Inc.，行业: 互联网。\n预计每股收益: $2.8
 	6，当前市值: $4\,360\,669\,560\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:nQu5CZKfzpnktfHdpCDHj
+UID:GiczcDaW87Xcgjfi-pfw2
 SUMMARY:Tesla 发布财报
-DTSTAMP:20260706T182912Z
+DTSTAMP:20260707T080201Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：TSLA，公司：Tesla，行业: 汽车/能源。\n预计每股收益: $0.27，当前市值
 	: $1\,477\,689\,557\,045。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TS
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:jtQQOkicsuaZ3HiAxBEI5
+UID:hG74w8qTqD8Lg1dQNCqyY
 SUMMARY:Microsoft 发布财报
-DTSTAMP:20260706T182912Z
+DTSTAMP:20260707T080201Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：MSFT，公司：Microsoft，行业: 软件/云计算。\n预计每股收益: $4.21
 	，当前市值: $2\,900\,729\,467\,565。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symb
@@ -118,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ZeJRGzLA8p3TytLiVTvWY
+UID:W5tA-uAlsw7WF6bNlOved
 SUMMARY:Fortinet 盘后发布财报
-DTSTAMP:20260706T182912Z
+DTSTAMP:20260707T080201Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：FTNT，公司：Fortinet，行业: 网络安全。\n预计每股收益: $0.66，当前
 	市值: $114\,476\,311\,094。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=FTN
@@ -134,9 +134,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:h6Eb6m9JVMoQb3d8AQhUX
+UID:i76gJJNHDmK4B3rRcJGDs
 SUMMARY:Amazon 发布财报
-DTSTAMP:20260706T182912Z
+DTSTAMP:20260707T080201Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：AMZN，公司：Amazon，行业: 电子商务/云计算。\n预计每股收益: $1.82，
 	当前市值: $2\,610\,427\,746\,834。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
@@ -150,9 +150,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:NeUVPiYiMXQSgoeFyJtIp
+UID:mzDIhKzrPFPbY4P7aqSG2
 SUMMARY:Advanced Micro Devices 发布财报
-DTSTAMP:20260706T182912Z
+DTSTAMP:20260707T080201Z
 DTSTART;VALUE=DATE:20260804
 DESCRIPTION:财务季度：Jun/2026。\n代码：AMD，公司：Advanced Micro Devices，行业: 半导体。\n预计每股
 	收益: $1.35，当前市值: $844\,357\,622\,887。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
