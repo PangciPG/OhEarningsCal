@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:ps3BwEbv0tMHsJ7fuSuZn
+UID:vDUd9ANGFkDH9DxHnE8Pw
 SUMMARY:Bank of America 发布财报
-DTSTAMP:20260722T071659Z
+DTSTAMP:20260722T175146Z
 DTSTART;VALUE=DATE:20260714
 DESCRIPTION:财务季度：Jun/2026。\n代码：BAC，公司：Bank of America，行业: 银行/金融。\n预计每股收益: $
 	1.13，当前市值: $430\,195\,325\,264。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:lZQeaP5CLSwwo8EH3pPvz
+UID:getK6n5rVNUL7UVkx5dMn
 SUMMARY:ASML Holding 发布财报
-DTSTAMP:20260722T071659Z
+DTSTAMP:20260722T175146Z
 DTSTART;VALUE=DATE:20260715
 DESCRIPTION:财务季度：Jun/2026。\n代码：ASML，公司：ASML Holding，行业: 半导体设备。\n预计每股收益: $7.
 	98，当前市值: $699\,637\,124\,745。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:rKlEATNJbNHnxq-tNwy2Q
+UID:qknnZ9iCvcj--xNFkU98K
 SUMMARY:台积电 发布财报
-DTSTAMP:20260722T071659Z
+DTSTAMP:20260722T175146Z
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:财务季度：Jun/2026。\n代码：TSM，公司：台积电，行业: 半导体制造。\n预计每股收益: $3.87，当前市值: $
 	2\,125\,118\,519\,365。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:-YFA_9nJZYObcKSkIL8oC
+UID:0gEHmy6Rhz--htlyPaPk6
 SUMMARY:The Travelers Companies 发布财报
-DTSTAMP:20260722T071659Z
+DTSTAMP:20260722T175146Z
 DTSTART;VALUE=DATE:20260717
 DESCRIPTION:财务季度：Jun/2026。\n代码：TRV，公司：The Travelers Companies，行业: 保险。\n预计每股
 	收益: $5.31，当前市值: $71\,835\,630\,189。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ts1QI0Ty-j4refxD2AQ4-
+UID:JAcoPinxfevwCPVuaY95C
 SUMMARY:Alphabet Inc. 盘后发布财报
-DTSTAMP:20260722T071659Z
+DTSTAMP:20260722T175146Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：GOOG，公司：Alphabet Inc.，行业: 互联网。\n预计每股收益: $2.8
-	7，当前市值: $4\,264\,710\,840\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
+	7，当前市值: $4\,206\,069\,400\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
 	bol=GOOG \n在富途查看：https://www.futunn.com/hk/stock/GOOG-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:u8r03PatYPQDXg19KAxL7
+UID:ko6df_k89JHW3_seXt8fO
 SUMMARY:Tesla 盘后发布财报
-DTSTAMP:20260722T071659Z
+DTSTAMP:20260722T175146Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：TSLA，公司：Tesla，行业: 汽车/能源。\n预计每股收益: $0.31，当前市值
-	: $1\,388\,002\,871\,005。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TS
+	: $1\,423\,156\,446\,438。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TS
 	LA \n在富途查看：https://www.futunn.com/hk/stock/TSLA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -102,12 +102,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:E4lCwg2j-Ut4Qe1ZVnUU0
+UID:2fkToNqcOySDd3Yfm3VMY
 SUMMARY:Microsoft 盘后发布财报
-DTSTAMP:20260722T071659Z
+DTSTAMP:20260722T175146Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：MSFT，公司：Microsoft，行业: 软件/云计算。\n预计每股收益: $4.21
-	，当前市值: $2\,988\,384\,997\,072。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symb
+	，当前市值: $2\,954\,659\,903\,516。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symb
 	ol=MSFT \n在富途查看：https://www.futunn.com/hk/stock/MSFT-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -118,12 +118,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:31Z9YWGnT5JhZWilKOC_C
+UID:HEfnj3DEepGCOkt6DcRwQ
 SUMMARY:Fortinet 盘后发布财报
-DTSTAMP:20260722T071659Z
+DTSTAMP:20260722T175146Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：FTNT，公司：Fortinet，行业: 网络安全。\n预计每股收益: $0.66，当前
-	市值: $117\,487\,495\,981。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=FTN
+	市值: $115\,831\,710\,617。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=FTN
 	T \n在富途查看：https://www.futunn.com/hk/stock/FTNT-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -134,12 +134,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:xBgaAWhVH85sFYOFeI0_o
+UID:CIGYelo7OOWY7PceOEG02
 SUMMARY:Amazon 盘后发布财报
-DTSTAMP:20260722T071659Z
+DTSTAMP:20260722T175146Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：AMZN，公司：Amazon，行业: 电子商务/云计算。\n预计每股收益: $1.82，
-	当前市值: $2\,689\,169\,787\,906。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
+	当前市值: $2\,662\,922\,440\,882。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
 	l=AMZN \n在富途查看：https://www.futunn.com/hk/stock/AMZN-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -150,12 +150,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:vIzoEjvlm_aAlNPnK-GIx
+UID:I72vvo0zRUkL2GTjrBQf7
 SUMMARY:Advanced Micro Devices 盘后发布财报
-DTSTAMP:20260722T071659Z
+DTSTAMP:20260722T175146Z
 DTSTART;VALUE=DATE:20260804
 DESCRIPTION:财务季度：Jun/2026。\n代码：AMD，公司：Advanced Micro Devices，行业: 半导体。\n预计每股
-	收益: $1.35，当前市值: $821\,121\,563\,781。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
+	收益: $1.35，当前市值: $887\,747\,905\,891。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
 	/?symbol=AMD \n在富途查看：https://www.futunn.com/hk/stock/AMD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -166,12 +166,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:GvPriMn0GPqwCEVsTILdw
-SUMMARY:Cercadia (或相关代码) 发布财报
-DTSTAMP:20260722T071659Z
-DTSTART;VALUE=DATE:20260811
+UID:Y1sQnJPgL6A0LMuOHCbn0
+SUMMARY:Cercadia (或相关代码) 盘前发布财报
+DTSTAMP:20260722T175146Z
+DTSTART;VALUE=DATE:20260805
 DESCRIPTION:财务季度：Jun/2026。\n代码：CRCL，公司：Cercadia (或相关代码)，行业: 金融/投资。\n预计每股收益:
-	 $0.25，当前市值: $16\,269\,301\,164。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sy
+	 $0.25，当前市值: $17\,668\,784\,212。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sy
 	mbol=CRCL \n在富途查看：https://www.futunn.com/hk/stock/CRCL-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -182,12 +182,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:yHGn12iWFZ3qxWjX84toQ
+UID:8Uy-Va48a_n1dTG0GxLPM
 SUMMARY:Intuit 发布财报
-DTSTAMP:20260722T071659Z
+DTSTAMP:20260722T175146Z
 DTSTART;VALUE=DATE:20260820
 DESCRIPTION:财务季度：Jul/2026。\n代码：INTU，公司：Intuit，行业: 软件 (财务/税务)。\n预计每股收益: $2.1
-	4，当前市值: $80\,370\,641\,340。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=
+	4，当前市值: $79\,303\,847\,040。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=
 	INTU \n在富途查看：https://www.futunn.com/hk/stock/INTU-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
