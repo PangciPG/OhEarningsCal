@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:nekYwHZS82SBjkJM_6UNX
+UID:P5xos0lrMFO3bN7CUN6hY
 SUMMARY:Microsoft 发布财报
-DTSTAMP:20260824T052239Z
+DTSTAMP:20260824T170858Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：MSFT，公司：Microsoft，行业: 软件/云计算。\n预计每股收益: $4.21
 	，当前市值: $2\,901\,100\,889\,300。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symb
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:W51p4TdbpFmixzcmFcJG1
+UID:1nO0kVWTUwxVshynQDuxs
 SUMMARY:Fortinet 发布财报
-DTSTAMP:20260824T052239Z
+DTSTAMP:20260824T170858Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：FTNT，公司：Fortinet，行业: 网络安全。\n预计每股收益: $0.66，当前
 	市值: $112\,256\,386\,469。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=FTN
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3i4BCE84Z2uclBGymJog-
+UID:Pgtw3vOs52JJYWLx66MG6
 SUMMARY:Amazon 发布财报
-DTSTAMP:20260824T052239Z
+DTSTAMP:20260824T170858Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：AMZN，公司：Amazon，行业: 电子商务/云计算。\n预计每股收益: $1.83，
 	当前市值: $2\,533\,299\,272\,178。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:OigJNJdAispcNpOrnhXow
+UID:Jerb4CdswJckmccbA-_wX
 SUMMARY:Advanced Micro Devices 发布财报
-DTSTAMP:20260824T052239Z
+DTSTAMP:20260824T170858Z
 DTSTART;VALUE=DATE:20260804
 DESCRIPTION:财务季度：Jun/2026。\n代码：AMD，公司：Advanced Micro Devices，行业: 半导体。\n预计每股
 	收益: $1.35，当前市值: $845\,596\,879\,373。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:-FpwIu2teugYBwHSqTann
+UID:kLvYaabkw9TKQi-sntevZ
 SUMMARY:Cercadia (或相关代码) 盘前发布财报
-DTSTAMP:20260824T052239Z
+DTSTAMP:20260824T170858Z
 DTSTART;VALUE=DATE:20260805
 DESCRIPTION:财务季度：Jun/2026。\n代码：CRCL，公司：Cercadia (或相关代码)，行业: 金融/投资。\n预计每股收益:
 	 $0.16，当前市值: $15\,722\,433\,898。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sy
@@ -86,13 +86,13 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:IydLrxaU8SwV47HrxMtDa
+UID:mqgztyOwmK3eq2zdIzL7M
 SUMMARY:Intuit 盘后发布财报
-DTSTAMP:20260824T052239Z
+DTSTAMP:20260824T170858Z
 DTSTART;VALUE=DATE:20260825
 DESCRIPTION:财务季度：Jul/2026。\n代码：INTU，公司：Intuit，行业: 软件 (财务/税务)。\n预计每股收益: $2.1
-	2，当前市值: $98\,984\,834\,190。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=
-	INTU \n在富途查看：https://www.futunn.com/hk/stock/INTU-US 
+	2，当前市值: $100\,388\,079\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol
+	=INTU \n在富途查看：https://www.futunn.com/hk/stock/INTU-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 BEGIN:VALARM
@@ -102,12 +102,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:OKMtM1LlvvHwTxbg0UXrS
+UID:rkYFCwXIZnRb_AkngtCZI
 SUMMARY:NVIDIA 盘后发布财报
-DTSTAMP:20260824T052239Z
+DTSTAMP:20260824T170858Z
 DTSTART;VALUE=DATE:20260826
-DESCRIPTION:财务季度：Jul/2026。\n代码：NVDA，公司：NVIDIA，行业: 半导体/人工智能。\n预计每股收益: $2.01，
-	当前市值: $5\,247\,770\,000\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
+DESCRIPTION:财务季度：Jul/2026。\n代码：NVDA，公司：NVIDIA，行业: 半导体/人工智能。\n预计每股收益: $2.09，
+	当前市值: $5\,196\,224\,000\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
 	l=NVDA \n在富途查看：https://www.futunn.com/hk/stock/NVDA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
