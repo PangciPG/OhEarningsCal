@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:F1cevhwc1CXs3WrkVvtBN
+UID:nvS6RTzrVXlPTlhCNzzuT
 SUMMARY:Amazon 发布财报
-DTSTAMP:20260829T112029Z
+DTSTAMP:20260829T193033Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：AMZN，公司：Amazon，行业: 电子商务/云计算。\n预计每股收益: $1.83，
 	当前市值: $2\,533\,299\,272\,178。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:6KMw0z_V_K3MHOOgQUSd0
+UID:gZfpnzeR8JNJhGO1Mp1vb
 SUMMARY:Advanced Micro Devices 发布财报
-DTSTAMP:20260829T112029Z
+DTSTAMP:20260829T193033Z
 DTSTART;VALUE=DATE:20260804
 DESCRIPTION:财务季度：Jun/2026。\n代码：AMD，公司：Advanced Micro Devices，行业: 半导体。\n预计每股
 	收益: $1.35，当前市值: $845\,596\,879\,373。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:X7HjfPhaoEir-liSaKZEv
+UID:Qrx-gDcspuzVMTjITegU4
 SUMMARY:Cercadia (或相关代码) 盘前发布财报
-DTSTAMP:20260829T112029Z
+DTSTAMP:20260829T193033Z
 DTSTART;VALUE=DATE:20260805
 DESCRIPTION:财务季度：Jun/2026。\n代码：CRCL，公司：Cercadia (或相关代码)，行业: 金融/投资。\n预计每股收益:
 	 $0.16，当前市值: $15\,722\,433\,898。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sy
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:WBYUeRkDgQ36fwD38ERB4
+UID:-3iEB7fHPkD1r57-AeCF6
 SUMMARY:Intuit 发布财报
-DTSTAMP:20260829T112029Z
+DTSTAMP:20260829T193033Z
 DTSTART;VALUE=DATE:20260825
 DESCRIPTION:财务季度：Jul/2026。\n代码：INTU，公司：Intuit，行业: 软件 (财务/税务)。\n预计每股收益: $2.1
 	2，当前市值: $97\,778\,536\,020。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ooW2MEv5sSQdycfO6GQYS
+UID:Znqyf54GEz9UPpQAwN48s
 SUMMARY:NVIDIA 发布财报
-DTSTAMP:20260829T112029Z
+DTSTAMP:20260829T193033Z
 DTSTART;VALUE=DATE:20260826
 DESCRIPTION:财务季度：Jul/2026。\n代码：NVDA，公司：NVIDIA，行业: 半导体/人工智能。\n预计每股收益: $2.09，
 	当前市值: $5\,073\,772\,000\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
