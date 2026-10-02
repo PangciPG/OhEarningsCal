@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:vd3VCpyLTwWrKTX5JTDZx
+UID:h0TwHTYXCIqLeosHoi-uc
 SUMMARY:ASML Holding 盘前发布财报
-DTSTAMP:20261001T211716Z
+DTSTAMP:20261002T104257Z
 DTSTART;VALUE=DATE:20261014
 DESCRIPTION:财务季度：Sep/2026。\n代码：ASML，公司：ASML Holding，行业: 半导体设备。\n预计每股收益: $12
 	.54，当前市值: $698\,249\,640\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symb
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hBVpsOVIGvbgA7-Gx-gjc
+UID:CKVosbb8IAiEva27e8hb5
 SUMMARY:Bank of America 盘前发布财报
-DTSTAMP:20261001T211716Z
+DTSTAMP:20261002T104257Z
 DTSTART;VALUE=DATE:20261014
 DESCRIPTION:财务季度：Sep/2026。\n代码：BAC，公司：Bank of America，行业: 银行/金融。\n预计每股收益: $
 	1.16，当前市值: $380\,615\,295\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Z-aM4nC30xiqAOVg5eA_W
+UID:A5XQnAfobyXq5qrm2QIgh
 SUMMARY:台积电 盘前发布财报
-DTSTAMP:20261001T211716Z
+DTSTAMP:20261002T104257Z
 DTSTART;VALUE=DATE:20261015
 DESCRIPTION:财务季度：Sep/2026。\n代码：TSM，公司：台积电，行业: 半导体制造。\n预计每股收益: $4.45，当前市值: $
 	2\,366\,031\,790\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ZNqMa7d57_6lvfdqAeuEY
+UID:PpvWjOtXTcL4pPASH1ptD
 SUMMARY:The Travelers Companies 盘前发布财报
-DTSTAMP:20261001T211716Z
+DTSTAMP:20261002T104257Z
 DTSTART;VALUE=DATE:20261016
 DESCRIPTION:财务季度：Sep/2026。\n代码：TRV，公司：The Travelers Companies，行业: 保险。\n预计每股
 	收益: $6.77，当前市值: $74\,359\,079\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:FlxXrJl-EBV2jEx0_oHSs
+UID:NzkhFk5MkmPUrvj2G9OgY
 SUMMARY:Tesla 发布财报
-DTSTAMP:20261001T211716Z
+DTSTAMP:20261002T104257Z
 DTSTART;VALUE=DATE:20261028
 DESCRIPTION:财务季度：Sep/2026。\n代码：TSLA，公司：Tesla，行业: 汽车/能源。\n预计每股收益: $0.24，当前市值
 	: $1\,401\,338\,860\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TS
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:PLr_NuwAPwabgvE7gL11W
+UID:Z9TJ4DMi7tvSHtzQi_726
 SUMMARY:Amazon 发布财报
-DTSTAMP:20261001T211716Z
+DTSTAMP:20261002T104257Z
 DTSTART;VALUE=DATE:20261029
 DESCRIPTION:财务季度：Sep/2026。\n代码：AMZN，公司：Amazon，行业: 电子商务/云计算。\n预计每股收益: $2.01，
 	当前市值: $2\,687\,410\,110\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
