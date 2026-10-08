@@ -37,7 +37,7 @@
     {
       "lastYearRptDt": "10/16/2025",
       "lastYearEPS": "$1.91",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "BNY",
       "name": "The Bank Of New York Mellon Corporation ",
       "marketCap": "$97,521,402,000",
@@ -53,7 +53,7 @@
       "name": "U.S. Bancorp",
       "marketCap": "$89,260,769,000",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.32",
+      "epsForecast": "$1.33",
       "noOfEsts": "9"
     },
     {
@@ -64,7 +64,7 @@
       "name": "PNC Financial Services Group, Inc. (The)",
       "marketCap": "$87,831,437,000",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$4.98",
+      "epsForecast": "$4.97",
       "noOfEsts": "8"
     },
     {
@@ -119,7 +119,7 @@
       "name": "J.B. Hunt Transport Services, Inc.",
       "marketCap": "$21,218,201,600",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$2",
+      "epsForecast": "$1.95",
       "noOfEsts": "9"
     },
     {
@@ -136,7 +136,7 @@
     {
       "lastYearRptDt": "10/16/2025",
       "lastYearEPS": "$0.03",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "WIT",
       "name": "Wipro Limited",
       "marketCap": "$16,637,963,300",
@@ -185,7 +185,7 @@
       "name": "Independent Bank Corp.",
       "marketCap": "$3,760,632,830",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.83",
+      "epsForecast": "$1.84",
       "noOfEsts": "4"
     },
     {
