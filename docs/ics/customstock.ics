@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:8H44t_-wIBPZZyQs08fKz
+UID:_F5_lo25SH0HnEcdRo6l3
 SUMMARY:ASML Holding 发布财报
-DTSTAMP:20261015T200108Z
+DTSTAMP:20261016T091521Z
 DTSTART;VALUE=DATE:20261014
 DESCRIPTION:财务季度：Sep/2026。\n代码：ASML，公司：ASML Holding，行业: 半导体设备。\n预计每股收益: $12
 	.47，当前市值: $635\,939\,130\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symb
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2VQyJUxUL_nIVVhQaqzK0
+UID:Ah7OFqe_6k5yb-C3asGvA
 SUMMARY:Bank of America 发布财报
-DTSTAMP:20261015T200108Z
+DTSTAMP:20261016T091521Z
 DTSTART;VALUE=DATE:20261014
 DESCRIPTION:财务季度：Sep/2026。\n代码：BAC，公司：Bank of America，行业: 银行/金融。\n预计每股收益: $
 	1.11，当前市值: $359\,357\,350\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:M8HcM_XpMUrZ7-aYrX4ud
+UID:sKQiGpJtLVdX03yceRFiq
 SUMMARY:台积电 盘前发布财报
-DTSTAMP:20261015T200108Z
+DTSTAMP:20261016T091521Z
 DTSTART;VALUE=DATE:20261015
 DESCRIPTION:财务季度：Sep/2026。\n代码：TSM，公司：台积电，行业: 半导体制造。\n预计每股收益: $4.45，当前市值: $
 	2\,230\,197\,160\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:XRukUU1oAGZeh_S3tlT8z
+UID:fWSAm02n5JH5SGliFLJ1R
 SUMMARY:The Travelers Companies 盘前发布财报
-DTSTAMP:20261015T200108Z
+DTSTAMP:20261016T091521Z
 DTSTART;VALUE=DATE:20261016
 DESCRIPTION:财务季度：Sep/2026。\n代码：TRV，公司：The Travelers Companies，行业: 保险。\n预计每股
 	收益: $7.01，当前市值: $78\,803\,812\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:HlPjGPw34jSRECj1QuBEK
+UID:bt3VSRSOot6H-TOjEWxGn
 SUMMARY:Tesla 盘后发布财报
-DTSTAMP:20261015T200108Z
+DTSTAMP:20261016T091521Z
 DTSTART;VALUE=DATE:20261021
 DESCRIPTION:财务季度：Sep/2026。\n代码：TSLA，公司：Tesla，行业: 汽车/能源。\n预计每股收益: $0.21，当前市值
 	: $1\,450\,115\,860\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TS
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:z9mYAxxymwtzOKJ4hYc82
+UID:QiB_GgNz9_F13QvqDhQ97
 SUMMARY:Alphabet Inc. 盘后发布财报
-DTSTAMP:20261015T200108Z
+DTSTAMP:20261016T091521Z
 DTSTART;VALUE=DATE:20261028
 DESCRIPTION:财务季度：Sep/2026。\n代码：GOOG，公司：Alphabet Inc.，行业: 互联网。\n预计每股收益: $2.9
 	4，当前市值: $4\,251\,637\,250\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ZAP3gslLdNfa221xYGH8L
+UID:sws4VpoKxNeYW5mH6nJsM
 SUMMARY:Microsoft 盘后发布财报
-DTSTAMP:20261015T200108Z
+DTSTAMP:20261016T091521Z
 DTSTART;VALUE=DATE:20261028
 DESCRIPTION:财务季度：Sep/2026。\n代码：MSFT，公司：Microsoft，行业: 软件/云计算。\n预计每股收益: $4.71
 	，当前市值: $3\,962\,939\,380\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symb
@@ -118,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8QiLV2d5WtgZ4phi9DMWJ
+UID:YZz1HGfoNG8vrDJJI2upM
 SUMMARY:Fortinet 盘后发布财报
-DTSTAMP:20261015T200108Z
+DTSTAMP:20261016T091521Z
 DTSTART;VALUE=DATE:20261028
 DESCRIPTION:财务季度：Sep/2026。\n代码：FTNT，公司：Fortinet，行业: 网络安全。\n预计每股收益: $0.77，当前
 	市值: $135\,040\,000\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=FTN
@@ -134,9 +134,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:YPMNDDofkrd5-6I-u0K6g
+UID:SQ_4WebKJZkJsL2Zqpx8U
 SUMMARY:Amazon 发布财报
-DTSTAMP:20261015T200108Z
+DTSTAMP:20261016T091521Z
 DTSTART;VALUE=DATE:20261029
 DESCRIPTION:财务季度：Sep/2026。\n代码：AMZN，公司：Amazon，行业: 电子商务/云计算。\n预计每股收益: $2.02，
 	当前市值: $2\,740\,586\,550\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
@@ -150,9 +150,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:vdoJPRov3WvFl70JFrn5j
+UID:4X1r_fAtgYlyf00nOoH01
 SUMMARY:Advanced Micro Devices 盘后发布财报
-DTSTAMP:20261015T200108Z
+DTSTAMP:20261016T091521Z
 DTSTART;VALUE=DATE:20261103
 DESCRIPTION:财务季度：Sep/2026。\n代码：AMD，公司：Advanced Micro Devices，行业: 半导体。\n预计每股
 	收益: $1.66，当前市值: $931\,849\,370\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
@@ -166,9 +166,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:BxevHJjBho08hJ69DVlfR
+UID:NyqwTk_Dq3cKQeyzYmICH
 SUMMARY:Cercadia (或相关代码) 盘前发布财报
-DTSTAMP:20261015T200108Z
+DTSTAMP:20261016T091521Z
 DTSTART;VALUE=DATE:20261104
 DESCRIPTION:财务季度：Sep/2026。\n代码：CRCL，公司：Cercadia (或相关代码)，行业: 金融/投资。\n预计每股收益:
 	 $0.40，当前市值: $20\,195\,825\,700。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sy
