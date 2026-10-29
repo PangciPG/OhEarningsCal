@@ -59,7 +59,7 @@
     {
       "lastYearRptDt": "11/18/2025",
       "lastYearEPS": "$3.35",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "ESLT",
       "name": "Elbit Systems Ltd.",
       "marketCap": "$36,742,058,000",
@@ -75,8 +75,8 @@
       "name": "Sociedad Quimica y Minera S.A.",
       "marketCap": "$17,223,960,600",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$2.02",
-      "noOfEsts": "3"
+      "epsForecast": "$2.16",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "11/18/2025",
@@ -235,7 +235,7 @@
     {
       "lastYearRptDt": "11/18/2025",
       "lastYearEPS": "$0.38",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "WB",
       "name": "Weibo Corporation",
       "marketCap": "$1,518,256,510",
@@ -264,17 +264,6 @@
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$0.48",
       "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "11/18/2025",
-      "lastYearEPS": "$0.51",
-      "time": "time-not-supplied",
-      "symbol": "BRBR",
-      "name": "BellRing Brands, Inc.",
-      "marketCap": "$1,070,922,180",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.21",
-      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/18/2025",
