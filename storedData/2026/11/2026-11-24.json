@@ -4,7 +4,7 @@
     {
       "lastYearRptDt": "11/25/2025",
       "lastYearEPS": "$2.35",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "DELL",
       "name": "Dell Technologies Inc.",
       "marketCap": "$220,188,312,000",
@@ -147,7 +147,7 @@
     {
       "lastYearRptDt": "11/25/2025",
       "lastYearEPS": "$1.28",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "URBN",
       "name": "Urban Outfitters, Inc.",
       "marketCap": "$7,561,224,200",
@@ -174,7 +174,7 @@
       "name": "Bilibili Inc.",
       "marketCap": "$5,961,884,200",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.18",
+      "epsForecast": "$0.17",
       "noOfEsts": "2"
     },
     {
@@ -197,6 +197,17 @@
       "marketCap": "$4,883,011,600",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.17",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.38",
+      "time": "time-pre-market",
+      "symbol": "BWLP",
+      "name": "BW LPG Limited",
+      "marketCap": "$3,537,653,250",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "",
       "noOfEsts": "3"
     },
     {
@@ -301,7 +312,7 @@
     {
       "lastYearRptDt": "11/25/2025",
       "lastYearEPS": "$0.05",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "TITN",
       "name": "Titan Machinery Inc.",
       "marketCap": "$567,613,500",
@@ -367,7 +378,7 @@
     {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "($0.08)",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "ZH",
       "name": "Zhihu Inc.",
       "marketCap": "$231,955,888",
@@ -378,7 +389,7 @@
     {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "($0.11)",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "BZUN",
       "name": "Baozun Inc.",
       "marketCap": "$199,961,664",
